@@ -5,8 +5,10 @@ theme = 'ananke'
 
 DefaultContentLanguage = "en"
 
-googleAnalytics = "G-8Q2PH7N75Q"
 enableRobotsTXT = true
+
+[params]
+	social = true
 
 [languages]
   [languages.en]
