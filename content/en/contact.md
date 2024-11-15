@@ -11,4 +11,18 @@ menu: main
 
 Hey, don't be a stranger! I would love to hear from you! You can reach me with the form below
 
-{{< form-contact action="https://formspree.io/f/xpzgvpan"  >}}
+<form
+  action="https://formspree.io/f/meoqkwoa"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
