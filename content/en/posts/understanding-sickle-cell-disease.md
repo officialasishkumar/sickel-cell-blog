@@ -1,6 +1,6 @@
 +++
 title = 'Understanding Sickle Cell Disease: Causes, Symptoms, and Care'
-date = 2023-12-19T22:52:53+01:00
+date = 2024-11-12T22:52:53+01:00
 featured_image= "/images/image-1.png"
 draft = false
 +++
@@ -45,14 +45,4 @@ While there’s no universal cure for SCD, treatments aim to manage symptoms and
 ### Advocacy and Awareness Matter
 
 Sickle cell disease disproportionately affects certain communities, particularly those of African, Middle Eastern, Indian, and Mediterranean descent. Raising awareness is critical to ensure early diagnosis, proper care, and research funding for advancements.
-
----
-
-### Suggested Featured Image:
-
-For the featured image, consider using an illustration of sickle-shaped red blood cells against a backdrop of healthy blood cells. A caption could read: “Understanding the impact of sickle-shaped cells on health.”
-
----
-
-Sickle cell disease is a challenge, but with knowledge and advocacy, we can make life brighter for those affected. Stay tuned for more insights and stories on living stronger with SCD.
 
