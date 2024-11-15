@@ -1,6 +1,6 @@
 baseURL = 'https://blog.vhmontes.com/'
 languageCode = 'en-us'
-title = 'Victor Hugo'
+title = 'Stronger With Sickle'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"
