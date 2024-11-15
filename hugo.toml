@@ -19,19 +19,3 @@ enableRobotsTXT = true
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/victoraldir"
-
-[[params.ananke_socials]]
-name = "github"
-url = "https://github.com/victoraldir"
-
-[[params.ananke_socials]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/victoraldir/"
-
-[services]
-  [services.disqus]
-    shortname = 'https-blog-vhmontes-com'
