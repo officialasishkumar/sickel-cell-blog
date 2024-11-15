@@ -1,7 +1,7 @@
 +++
 title = 'Understanding Sickle Cell Disease: Causes, Symptoms, and Care'
 date = 2024-11-15T12:00:00+02:00
-<!-- featured_image= "/images/sickle-cell/understanding-scd-banner.png" -->
+featured_image= "/images/image-1.png"
 draft = false
 +++
 
