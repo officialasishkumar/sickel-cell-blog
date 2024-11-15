@@ -1,6 +1,6 @@
 +++
 title = 'Understanding Sickle Cell Disease: Causes, Symptoms, and Care'
-date = 2024-11-15T12:00:00+02:00
+date = 2023-12-19T22:52:53+01:00
 featured_image= "/images/image-1.png"
 draft = false
 +++
@@ -13,7 +13,6 @@ Sickle cell disease (SCD) is more than just a medical condition—it’s a lifel
 
 Sickle cell disease is a group of inherited blood disorders affecting the red blood cells. In individuals with SCD, red blood cells take on a crescent or "sickle" shape, making them rigid and prone to clumping. This disrupts normal blood flow and reduces oxygen delivery to tissues, leading to pain and complications.
 
----
 
 ### What Causes Sickle Cell Disease?
 
